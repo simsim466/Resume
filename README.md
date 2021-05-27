@@ -19,7 +19,7 @@ Javascript / JavaFX / Bootstrap / jQuery / AJAX
 ## Путь в IT
 ###### 2021 г. (май) - разработка  Spring/JPA Enterprise приложения на стеке Maven/ Spring MVC/REST(Jackson)/ Java 8 Stream API:
   -  реализация сохранения в базу HSQLDB на основе Spring-Data-JPA
-  -  реализация и тестирование REST контроллеров.
+  -  реализация и тестирование REST контроллеров. (https://github.com/simsim466/foodcourt/tree/pet_project_1)
 ###### 2021 г. (февраль - май) - Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API:
   -  реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA
   -  реализация и тестирование REST и AJAX контроллеров
