@@ -1,7 +1,9 @@
 # Резюме
 ## Симонов Антон
 
-Тел.: +79263173162 (+ Telegram + WhatsApp + Skype) 
+Тел.:
+  - +79785014773 (моб.) 
+  - +79263173162 (Telegram + WhatsApp + Skype)
 
 E-mail: Simsim466@gmail.com
 
